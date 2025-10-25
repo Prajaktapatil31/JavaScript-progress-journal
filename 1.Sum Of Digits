@@ -1,3 +1,4 @@
+https://www.geeksforgeeks.org/problems/sum-of-digits1742/1
 class Solution {
     static int sumOfDigits(int n) {
         // code here
