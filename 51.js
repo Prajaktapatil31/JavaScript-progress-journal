@@ -1,5 +1,4 @@
 //Return Type Function - fucntion return a result using return keyword
-
 function sum(a,b){
     return a+b
 }
