@@ -1,6 +1,5 @@
 /*
 perfect number - if the sum of all its divisors excluding itself is equal to the number then it is perfect number.
-
 eg. 28 = 1+2+4+7+14 == 28
 eg. 10 = 1+2+5 != 10
 
