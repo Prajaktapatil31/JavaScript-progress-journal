@@ -8,4 +8,6 @@
 
 let h = document.getElementById('heading')
 console.log(h.innerHTML);
+
 console.log(h.innerText);
+
